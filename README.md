@@ -18,4 +18,4 @@ On Windows, try `py number_guessing_game.py` if needed.
 Make guesses until the correct number is found; check the hint and attempt count. Enter `y` for another round and `n` to exit. Try letters to test invalid-input handling.
 
 ## Author
-Add your name before submitting.
+Sinchana Mahesha Hegde
